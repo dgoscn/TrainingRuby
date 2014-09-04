@@ -1,7 +1,7 @@
-class Entrega 
-	def initialize(endereco, taxa, confentrega)
-		@endereco = endereco
-		@taxa = taxa
-		@confentrega = confentrega
+class Addres 
+	def initialize(addres, tax, confaddres)
+		@addres = addres
+		@tax = tax
+		@confaddres = confaddres
 	end
 end

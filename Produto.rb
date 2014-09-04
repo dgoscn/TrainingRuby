@@ -1,10 +1,10 @@
-class Produto
-	def initialize(validade, valor, id, nome, tipo)
-		@validade = validade
-		@valor = valor
+class Product
+	def initialize(validity, value, id, name, kind)
+		@validity = validity
+		@value = value
 		@id = id
-		@nome = nome
-		@tipo = tipo
+		@name = name
+		@kind = kind
 
 end
 
