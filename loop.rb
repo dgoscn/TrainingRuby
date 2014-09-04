@@ -24,7 +24,7 @@ loop do
 		gets()
 	end 
 	if (option.to_i == 3)
-		system "cler"
+		system "clear"
 		puts "Limpeza"
 		gets()
 	end
