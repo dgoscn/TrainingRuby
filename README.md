@@ -1,1 +1,1 @@
-BDGVRTL Hosting and Spreading RUBY for the World.
+BDGVRTL
