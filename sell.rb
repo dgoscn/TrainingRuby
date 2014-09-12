@@ -5,7 +5,7 @@ class Sell
 		@itens = itens
 	end
 
-	def pretty_print
+	def product_print
 		itens.each do |product, qtd|
 			puts "#{product.name} | #{qtd} unit(s)"
 		end
