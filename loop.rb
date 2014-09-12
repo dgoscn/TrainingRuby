@@ -26,7 +26,5 @@ loop do
 	end
 
 
-	# Ao escolher  1, deve se gerar uma caixa com as opcoes desejadas //
-	# Em seguida, Confirmar ou Sair
-	# Finalizando, uma caixa com o endereço, complemento e nome
+
 end
